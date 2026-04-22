@@ -1,0 +1,1 @@
+export { startNotificationWorker } from './notificationWorker';
